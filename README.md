@@ -1,3 +1,3 @@
 -@ Weed Packed @-
 
-Extract the .zip file and follow instructions.
+Install a version via releases.
