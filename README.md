@@ -1,3 +1,3 @@
 -@ Weed Packed @-
 
-Install a version via releases.
+To use the program, Install a version via releases.
