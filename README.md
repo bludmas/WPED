@@ -1,6 +1,6 @@
-### WPED REBORN.
+# WPED REBORN.
 ## FINGER STUDIOS
-# ©XXXX-2024
+### ©XXXX-2024
 
 WPED Reborn is a program that features even better features than the OG one.
 
