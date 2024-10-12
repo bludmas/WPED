@@ -1,3 +1,7 @@
--@ Weed Packed @-
+### WPED REBORN.
+## FINGER STUDIOS
+# ©XXXX-2024
 
-To use the program, Install a version via releases.
+WPED Reborn is a program that features even better features than the OG one.
+
+To install the program, select a version (recommended the latest) via Releases.
