@@ -2,7 +2,7 @@
 
 <div>&nbsp;</div>
 
-[![Release Pages](https://img.shields.io/static/v1?label=Version&message=1.0.8&color=green)](https://github.com/bludmas/WPED/releases "Releases")
+[![Release Pages](https://img.shields.io/static/v1?label=Version&message=1.0.9&color=green)](https://github.com/bludmas/WPED/releases "Releases")
 
 </div>
 
